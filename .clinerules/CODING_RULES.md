@@ -29,6 +29,7 @@ This document outlines the coding standards and best practices to follow in this
 - Store reusable data in `_config.yml` or data files.
 - Avoid editing generated `_site` files directly.
 - Use Liquid tags for dynamic content.
+- Organize pages in subdirectories: Place page files as `docs/page/index.markdown` for URLs like `/page/`. The home page remains as `docs/index.markdown` in the root.
 
 ## File Organization
 
