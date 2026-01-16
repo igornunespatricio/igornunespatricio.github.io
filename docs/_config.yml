@@ -21,11 +21,12 @@
 title: Igor Nunes Patricio
 email: igornunespatricio@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Igor Nunes Patricio is a passionate data science and data engineering expert, constantly pushing the boundaries of AI to unlock transformative insights. With hands-on experience in Python, SQL, machine learning, and cloud tools like Terraform, AWS, and Docker, he builds scalable data solutions that turn complex challenges into actionable opportunities.
+  Igor Nunes Patricio is deeply interested in data science and data engineering, with a strong enthusiasm for learning and applying these fields to real-world problems. He enjoys exploring new technologies and continuously expanding his skills in Python, SQL, machine learning, and cloud tools such as Terraform, AWS, and Docker. Driven by curiosity, he focuses on building scalable data solutions and transforming complex challenges into meaningful insights.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://igornunespatricio.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  igornunespatricio
+linkedin_username: nunespatricioigor
 
 # Build settings
 theme: jekyll-theme-slate
