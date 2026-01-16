@@ -24,12 +24,19 @@ body {
   gap: 20px;
 }
 
-.home-layout img {
+.left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.left img {
   width: 200px;
   border-radius: 50%;
 }
 
-.home-layout p {
+.bio {
   flex: 1;
   font-size: 16px;
   line-height: 1.6;
@@ -38,7 +45,6 @@ body {
 /* Social links styles */
 .social-links {
   text-align: center;
-  margin-top: 20px;
 }
 
 .social-link {
