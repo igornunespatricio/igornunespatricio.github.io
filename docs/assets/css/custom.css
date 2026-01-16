@@ -17,6 +17,12 @@ body {
   color: #ffffff;
 }
 
+/* Page container for centering all pages */
+.page-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
 /* Home layout styles */
 .home-layout {
   display: flex;
@@ -64,4 +70,58 @@ body {
 
 .social-link.linkedin {
   background-color: #0077b5;
+}
+
+/* Portfolio page styles */
+.portfolio h1 {
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 2.5em;
+}
+
+.project {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.project h2 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 1.8em;
+  color: #ffffff;
+}
+
+.repo-link {
+  display: inline-block;
+  background-color: #24292e;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  transition: background-color 0.3s ease;
+}
+
+.repo-link:hover {
+  background-color: #1a1e22;
+}
+
+.project p {
+  margin-bottom: 15px;
+  line-height: 1.6;
+  color: #ffffff;
+}
+
+.project strong {
+  color: #ffffff;
+}
+
+.project-separator {
+  border: none;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+  margin: 30px 0;
 }
