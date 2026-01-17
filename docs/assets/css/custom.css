@@ -53,16 +53,16 @@ body {
 
 /* Social links styles */
 .social-links {
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
 }
 
 .social-link {
   color: #ffffff;
   text-decoration: none;
-  margin: 0 10px;
   padding: 10px 20px;
   border-radius: 5px;
-  display: inline-block;
 }
 
 .social-link.github {
@@ -71,6 +71,10 @@ body {
 
 .social-link.linkedin {
   background-color: #0077b5;
+}
+
+.social-link.email {
+  background-color: #6c757d;
 }
 
 /* Portfolio page styles */
