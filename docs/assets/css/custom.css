@@ -140,25 +140,39 @@ body {
   color: #ffffff;
 }
 
-.certificate-list {
+.certificate {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  text-align: left;
+}
+
+.certificate-header {
   display: flex;
-  flex-direction: column;
+  justify-content: flex-start;
   align-items: center;
-  gap: 10px;
+  gap: 15px;
+  margin-bottom: 15px;
 }
 
-.certificate-list a {
-  display: inline-block;
-  background-color: #24292e;
+.certificate-header .repo-link {
+  margin-bottom: 0;
+}
+
+.certificate h3 {
+  margin: 0;
+  font-size: 1.5em;
   color: #ffffff;
-  text-decoration: none;
-  padding: 10px 20px;
-  border-radius: 5px;
-  transition: background-color 0.3s ease;
-  max-width: 400px;
-  text-align: center;
 }
 
-.certificate-list a:hover {
-  background-color: #1a1e22;
+.certificate p {
+  margin-bottom: 15px;
+  line-height: 1.6;
+  color: #ffffff;
+}
+
+.certificate strong {
+  color: #ffffff;
 }
