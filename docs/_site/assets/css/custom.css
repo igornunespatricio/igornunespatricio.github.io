@@ -53,16 +53,21 @@ body {
 
 /* Social links styles */
 .social-links {
-  display: flex;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
   gap: 10px;
+  justify-items: center;
 }
 
 .social-link {
   color: #ffffff;
   text-decoration: none;
-  padding: 10px 20px;
+  width: 120px;
+  height: 40px;
   border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .social-link.github {
@@ -183,4 +188,11 @@ body {
 
 .certificate strong {
   color: #ffffff;
+}
+
+/* Responsive social links */
+@media (max-width: 768px) {
+  .social-links {
+    grid-template-columns: 1fr;
+  }
 }
