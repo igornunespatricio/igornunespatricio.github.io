@@ -77,6 +77,10 @@ body {
   background-color: #6c757d;
 }
 
+.social-link.cv {
+  background-color: #f39c12;
+}
+
 /* Portfolio page styles */
 .portfolio h1 {
   text-align: center;

@@ -12,6 +12,7 @@ layout: default
       <a href="https://linkedin.com/in/{{ site.linkedin_username }}" class="social-link linkedin">LinkedIn</a>
       <a href="https://github.com/{{ site.github_username }}" class="social-link github">GitHub</a>
       <a href="mailto:{{ site.email }}" class="social-link email">Email</a>
+      <a href="/assets/cv/cv.pdf" target="_blank" class="social-link cv">CV</a>
     </p>
   </div>
   <div class="content">
