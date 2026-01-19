@@ -30,7 +30,7 @@ layout: default
       <h3>Airflow, DBT & Astro Workshop - Jornada de Dados</h3>
       <a href="/assets/certificates/airflow_dbt_astro_workshop_jornada_de_dados.pdf" target="_blank" class="repo-link">Download Certificate</a>
     </div>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    <p>This workshop covered advanced data engineering tools, focusing on workflow orchestration with Apache Airflow, data transformation with DBT, and cloud deployment using Astro.</p>
     <p><strong>Key Technologies:</strong> Airflow, DBT, Astro, Python, SQL, Data Engineering.</p>
   </div>
 
@@ -41,7 +41,7 @@ layout: default
       <h3>Airflow Workshop - Jornada de Dados</h3>
       <a href="/assets/certificates/airflow_workshop_jornada_de_dados.pdf" target="_blank" class="repo-link">Download Certificate</a>
     </div>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    <p>Focused on mastering Apache Airflow for workflow orchestration. Covered creating DAGs, scheduling tasks, and building robust data pipelines using Python.</p>
     <p><strong>Key Technologies:</strong> Apache Airflow, Python, DAGs, Workflow Orchestration.</p>
   </div>
 
@@ -74,7 +74,7 @@ layout: default
       <h3>Docker Workshop - Jornada de Dados</h3>
       <a href="/assets/certificates/docker_workshop_jornada_de_dados.pdf" target="_blank" class="repo-link">Download Certificate</a>
     </div>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    <p>Comprehensive workshop on Docker containerization. Learned to create and manage container images, use Docker Compose for multi-container applications, and deploy applications in isolated environments.</p>
     <p><strong>Key Technologies:</strong> Docker, Containerization, Images, Docker Compose.</p>
   </div>
 
