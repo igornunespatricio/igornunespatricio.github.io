@@ -52,7 +52,7 @@ layout: default
       <h3>AWS Cloud Bootcamp Certification - Jornada de Dados</h3>
       <a href="/assets/certificates/cloud_aws_bootcamp_certification_jornada_de_dados.pdf" target="_blank" class="repo-link">Download Certificate</a>
     </div>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    <p>An intensive bootcamp focused on building data engineering and analytics solutions on AWS. Gained hands-on experience with core services for data pipelines, cloud storage (S3), data processing, and serverless architectures, aligning with AWS Well-Architected principles.</p>
     <p><strong>Key Technologies:</strong> AWS, EC2, S3, Lambda, Cloud Computing, Infrastructure as Code.</p>
   </div>
 
@@ -63,7 +63,7 @@ layout: default
       <h3>DBT Bootcamp Certification - Jornada de Dados</h3>
       <a href="/assets/certificates/dbt_bootcamp_certification_jornada_de_dados.pdf" target="_blank" class="repo-link">Download Certificate</a>
     </div>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    <p>Certified in dbt, covering both dbt Core for development and dbt Cloud for orchestration. Built modular data models, implemented dbt tests for data quality, created snapshots for historical tracking, and wrote macros using Jinja for reusable logic. Applied analytics engineering best practices to build reliable, documented data pipelines.</p>
     <p><strong>Key Technologies:</strong> DBT, SQL, Data Transformation, Analytics Engineering.</p>
   </div>
 
@@ -85,8 +85,8 @@ layout: default
       <h3>Git & GitHub Certification - Jornada de Dados</h3>
       <a href="/assets/certificates/git_github_certification_jornada_de_dados.pdf" target="_blank" class="repo-link">Download Certificate</a>
     </div>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-    <p><strong>Key Technologies:</strong> Git, GitHub, Version Control, Collaboration, Branching.</p>
+    <p>This certification covers the fundamentals and advanced practices of Git and GitHub, including version control, branching strategies, repository management, collaboration workflows, pull requests, code reviews, and GitHub features such as Issues, Projects, and Actions. The course provided hands-on experience with real-world workflows, enabling efficient source code management and team collaboration.</p>
+    <p><strong>Key Technologies:</strong> Git, GitHub, Version Control, Collaboration, Branching, Pipelines.</p>
   </div>
 
   <hr class="project-separator">
@@ -96,8 +96,8 @@ layout: default
       <h3>Python Bootcamp Certification - Jornada de Dados</h3>
       <a href="/assets/certificates/python_bootcamp_certification_jornada_de_dados.pdf" target="_blank" class="repo-link">Download Certificate</a>
     </div>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-    <p><strong>Key Technologies:</strong> Python, Programming, Data Structures, Algorithms.</p>
+    <p>Intensive Python bootcamp covering error handling, control flow, core data types (lists, dictionaries, dataframes), functions, data structures, and OOP (classes, inheritance, polymorphism). Included backend development with SQLModel, SQLAlchemy, Pydantic, APIs, Requests, and CRUD operations, ending with a full project integrating backend, frontend, and a relational database.</p>
+    <p><strong>Key Technologies:</strong> Web Scraping, REST APIs, ETL, Git, Python, JSON, Object-Oriented Programming (OOP), CRUD, Data Engineering.</p>
   </div>
 
   <hr class="project-separator">
@@ -107,7 +107,7 @@ layout: default
       <h3>SQL Bootcamp Certification - Jornada de Dados</h3>
       <a href="/assets/certificates/sql_bootcamp_certification_jornada_de_dados.pdf" target="_blank" class="repo-link">Download Certificate</a>
     </div>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-    <p><strong>Key Technologies:</strong> SQL, Databases, Querying, Data Analysis.</p>
+    <p>Completed an Intensive SQL Bootcamp focused on advanced querying and database development. Covered JOINs, CTEs, subqueries, window functions, views, temporary and materialized tables, stored procedures, functions, triggers, ACID transactions, indexing, execution order, optimization, B-trees, and partitioning.</p>
+    <p><strong>Key Technologies:</strong> Views, Window Functions, Stored Procedures, RDBMS, CTE, Database Triggers, ETL, Git, Materialized Views, Database Design, SQL, MySQL, CRUD, Data Engineering.</p>
   </div>
 </div>
