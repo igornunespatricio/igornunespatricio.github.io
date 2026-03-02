@@ -8,6 +8,14 @@ layout: default
 <div class="home-layout">
   <div class="left">
     <img src="https://media.licdn.com/dms/image/v2/D4D03AQFpVzEefV_ojg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1692807745726?e=1773878400&v=beta&t=MUnsmOCem3OSPlUp95e23qd98ruVaUhvXR9fu3wcv10" alt="Igor Nunes Patricio">
+    <div class="contact-info">
+      <p class="contact-item">
+        <strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      </p>
+      <p class="contact-item">
+        <strong>WhatsApp:</strong> {{ site.phone }}
+      </p>
+    </div>
     <p class="social-links">
       <a href="https://linkedin.com/in/{{ site.linkedin_username }}" class="social-link linkedin">LinkedIn</a>
       <a href="https://github.com/{{ site.github_username }}" class="social-link github">GitHub</a>
@@ -16,7 +24,7 @@ layout: default
     </p>
   </div>
   <div class="content">
-    <div class="bio">Igor Nunes Patricio is deeply interested in data science and data engineering, with a strong enthusiasm for learning and applying these fields to real-world problems. He enjoys exploring new technologies and continuously expanding his skills in Python, SQL, machine learning, and cloud tools such as Terraform, AWS, and Docker. Driven by curiosity, he focuses on building scalable data solutions and transforming complex challenges into meaningful insights.
+    <div class="bio"> {{ site.description }}
     </div>
     <p>Bachelor in Statistics from UFRJ</p>
   </div>

@@ -45,6 +45,41 @@ body {
   border-radius: 50%;
 }
 
+/* Contact info styles */
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: stretch;
+  width: 100%;
+  max-width: 250px;
+}
+
+.contact-item {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 5px;
+  padding: 10px 15px;
+  margin: 0;
+  width: 100%;
+  color: #ffffff;
+  box-sizing: border-box;
+}
+
+.contact-item strong {
+  color: #ffffff;
+  margin-right: 5px;
+}
+
+.contact-item a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.contact-item a:hover {
+  text-decoration: underline;
+}
+
 .bio {
   flex: 1;
   font-size: 16px;
